@@ -35,5 +35,6 @@ public class fibonacciMemorized{
 
         return fibn;
         // better method than recurion and using DP
+        //This method is called Memorization.
     }
 }
